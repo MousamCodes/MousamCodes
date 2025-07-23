@@ -9,8 +9,6 @@
 
 Hey! I'm a passionate Computer Science student at GNIT, building innovative AI and web solutions. Currently working on **PrepPal**, an AI-powered career coach app to help job seekers shine. I'm on the lookout for **AI/ML and web dev internships** to bring my skills to the next level.
 
-<img align="right" alt="Coding" width="260" src="https://img.freepik.com/premium-photo/man-is-sitting-desk-with-computer-monitor-front-him_988095-21249.jpg?semt=ais_hybrid&w=740">
-
 ---
 
 ## 🌟 About Me
@@ -23,6 +21,7 @@ Hey! I'm a passionate Computer Science student at GNIT, building innovative AI a
 - 📫 Email: **mousampodder02@gmail.com**  
 - 💡 Love crafting solutions for real-world problems  
 
+<img align="right" alt="Coding" width="260" src="https://img.freepik.com/premium-photo/man-is-sitting-desk-with-computer-monitor-front-him_988095-21249.jpg?semt=ais_hybrid&w=740">
 ---
 
 ## 🛠️ Skills

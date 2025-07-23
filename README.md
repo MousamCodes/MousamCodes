@@ -10,7 +10,7 @@
 Hey! I'm a passionate Computer Science student at GNIT, building innovative AI and web solutions. Currently working on **PrepPal**, an AI-powered career coach app to help job seekers shine. I'm on the lookout for **AI/ML and web dev internships** to bring my skills to the next level.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJ3cHppeHU2c2Vnejl4MXAyenMyZnlhbTYwNmtpNXd1Ym8xMTN2MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding" width="300">
+  <img src="" alt="Coding" width="300">
 </div>
 
 ---
